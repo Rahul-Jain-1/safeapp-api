@@ -3,5 +3,4 @@ flask
 flask_cors
 librosa 
 numpy 
-json
-request
+
